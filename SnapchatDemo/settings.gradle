@@ -1,0 +1,2 @@
+rootProject.name='Snapchat Demo'
+include ':app'
